@@ -1,4 +1,4 @@
-// File: /mnt/c/Users/dizda/workspace/it-me/new/frontend/app/rss/route.ts
+// File: /mnt/c/Users/dizda/workspace/dizdar-site/app/rss/route.ts
 import * as entry from '../../../../app/rss/route.js'
 import type { NextRequest } from 'next/server.js'
 

@@ -1,4 +1,4 @@
-// File: /mnt/c/Users/dizda/workspace/it-me/new/frontend/app/blog/[slug]/page.tsx
+// File: /mnt/c/Users/dizda/workspace/dizdar-site/app/blog/[slug]/page.tsx
 import * as entry from '../../../../../app/blog/[slug]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

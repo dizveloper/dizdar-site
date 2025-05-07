@@ -1,4 +1,4 @@
-// File: /mnt/c/Users/dizda/workspace/it-me/new/frontend/app/og/route.tsx
+// File: /mnt/c/Users/dizda/workspace/dizdar-site/app/og/route.tsx
 import * as entry from '../../../../app/og/route.js'
 import type { NextRequest } from 'next/server.js'
 

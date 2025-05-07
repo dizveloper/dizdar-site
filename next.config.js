@@ -4,7 +4,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: process.env.NODE_ENV === 'production' ? '/it-me' : '',
+  basePath: process.env.NODE_ENV === 'production' ? '/dizdar-site' : '',
 }
 
 module.exports = nextConfig 
